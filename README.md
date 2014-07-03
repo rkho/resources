@@ -179,7 +179,7 @@ Holy f\*\*\*ing s\*\*\*, how did they do that?
 - [Express](http://expressjs.com/) &mdash; Sinatra inspired web development framework for node.js -- insanely fast, flexible, and simple. [GitHub](https://github.com/visionmedia/express)
 - [Sails.js](http://sailsjs.org/) &mdash; Realtime MVC Framework for Node.js. [GitHub](https://github.com/balderdashy/sails)
 - [Koa.js](http://koajs.com/) &mdash; next generation framework for node.js [GitHub](https://github.com/koajs/koa)
-- [Hapi](http://http://hapijs.com/) &mdash; A rich framework for building applications and services [GitHub](https://github.com/spumko/hapi)
+- [Hapi](http://hapijs.com/) &mdash; A rich framework for building applications and services [GitHub](https://github.com/spumko/hapi)
 
 #### Database Interaction / ORMs
 Database clients in JavaScript
