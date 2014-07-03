@@ -53,8 +53,8 @@ Be taken seriously
 - [Sinon.js](http://sinonjs.org/) &mdash; Test spies, stubs and mocks for JavaScript. [GitHub](https://github.com/cjohansen/Sinon.JS)
 
 ### Continuous Integration
-https://travis-ci.org/
-https://ci.testling.com/
+[Travis CI](https://travis-ci.org/) &mdash; De-facto standard for open-source projects; Easy GitHub-integration
+[Testling](https://ci.testling.com/) &mdash; Run your browser tests on every push!
 
 ### Building and Tooling
 Be a better developer
