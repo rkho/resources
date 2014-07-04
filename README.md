@@ -1,5 +1,5 @@
 # JavaScript Resources
-_Hack Reactor 15_
+_Hack Reactor June 2014 Cohorts_
 
 ### Other Resource Lists and Sites
 Much better than this one
@@ -53,8 +53,8 @@ Be taken seriously
 - [Sinon.js](http://sinonjs.org/) &mdash; Test spies, stubs and mocks for JavaScript. [GitHub](https://github.com/cjohansen/Sinon.JS)
 
 ### Continuous Integration
-https://travis-ci.org/
-https://ci.testling.com/
+[Travis CI](https://travis-ci.org/) &mdash; De-facto standard for open-source projects; Easy GitHub-integration
+[Testling](https://ci.testling.com/) &mdash; Run your browser tests on every push!
 
 ### Building and Tooling
 Be a better developer
@@ -184,7 +184,7 @@ Holy f\*\*\*ing s\*\*\*, how did they do that?
 - [Express](http://expressjs.com/) &mdash; Sinatra inspired web development framework for node.js -- insanely fast, flexible, and simple. [GitHub](https://github.com/visionmedia/express)
 - [Sails.js](http://sailsjs.org/) &mdash; Realtime MVC Framework for Node.js. [GitHub](https://github.com/balderdashy/sails)
 - [Koa.js](http://koajs.com/) &mdash; next generation framework for node.js [GitHub](https://github.com/koajs/koa)
-- [Hapi](http://http://hapijs.com/) &mdash; A rich framework for building applications and services [GitHub](https://github.com/spumko/hapi)
+- [Hapi](http://hapijs.com/) &mdash; A rich framework for building applications and services [GitHub](https://github.com/spumko/hapi)
 
 #### Database Interaction / ORMs
 Database clients in JavaScript
