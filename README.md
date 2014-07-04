@@ -104,6 +104,11 @@ Stuff related to upcoming ES6 features, exotic DOM APIs, or anything else that's
 - [ES6 Generators](http://flippinawesome.org/2014/02/10/replacing-callbacks-with-es6-generators/)
 - [The Polymer Project](http://www.polymer-project.org/)
 
+### DOM & Browser
+- [What Every Frontend Developer Should Know About Webpage Rendering](http://frontendbabel.info/articles/webpage-rendering-101/)
+- [Minimizing Browser Reflow](https://developers.google.com/speed/articles/reflow)
+- [Faster DOM Manipulation](http://james.padolsey.com/stuff/jQueryBookThing/#faster-dom-manip)
+
 ### HFS
 Holy f\*\*\*ing s\*\*\*, how did they do that?
 - [Algorithm Visualizations](http://bost.ocks.org/mike/algorithms/)
