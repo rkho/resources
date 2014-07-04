@@ -13,5 +13,5 @@ Browserify let's you use Node-style `require()` in your client-side code. Once y
 #### [Optimization Killers](https://github.com/petkaantonov/bluebird/wiki/Optimization-killers)
 The V8 JavaScript engine is a masterpiece; it does an amazing job of optimizing code. However, there are some things that it can't optimize. This stuff is external to the time complexity of your code, so you can't really identify this stuff just by reading code. _-Nick_
 
-### [Human JavaScript](http://read.humanjavascript.com/)
+#### [Human JavaScript](http://read.humanjavascript.com/)
 Practical patterns for simple but powerful JavaScript apps. No magic frameworks. You're going to work with fundamental JavaScript in a way you'll understand, and with explanations that help you learn how to make great choices as you build your apps. _-Alex_
