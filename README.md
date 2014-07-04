@@ -7,6 +7,7 @@ Much better than this one
 - [Front-end Feeds](https://github.com/impressivewebs/frontend-feeds)
 - [Front-end Developer Interview Questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions)
 - [Front-end Dev Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
+- [READ UP](http://readup.co)
 
 ### Blogs & News
 - [Echojs.com](http://www.echojs.com/)
