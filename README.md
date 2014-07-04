@@ -13,12 +13,14 @@ Much better than this one
 - [Echojs.com](http://www.echojs.com/)
 - [Dailyjs.com](http://dailyjs.com/)
 - [Javascript, JavaScript](http://javascriptweblog.wordpress.com/)
+- [Addy Osmani's Blog](http://addyosmani.com/blog/)
 
 ### JavaScript Rockstars
 Follow them on GitHub and elsewhere
 - [James Halliday](https://github.com/substack)
 - [Addy Osmani](https://github.com/addyosmani)
 - [Eric Bidelman](https://github.com/ebidel)
+- [Paul Irish](https://github.com/paulirish)
 - [TJ Holowaychuk](https://github.com/visionmedia)
 
 ### Git & GitHub
@@ -111,12 +113,16 @@ Stuff related to upcoming ES6 features, exotic DOM APIs, or anything else that's
 - [Minimizing Browser Reflow](https://developers.google.com/speed/articles/reflow)
 - [Faster DOM Manipulation](http://james.padolsey.com/stuff/jQueryBookThing/#faster-dom-manip)
 
+### User Interface Design & Development
+- [Codrops](http://tympanus.net/codrops/)
+
 ### HFS
 Holy f\*\*\*ing s\*\*\*, how did they do that?
 - [Algorithm Visualizations](http://bost.ocks.org/mike/algorithms/)
 
 ### Libraries
 #### Event Systems
+- [events.EventEmitter](http://nodejs.org/api/events.html#events_class_events_eventemitter) &mdash; the native Node events module
 - [cowboy/jquery-tiny-pubsub](https://github.com/cowboy/jquery-tiny-pubsub) &mdash; a really, really, REALLY tiny pub/sub implementation for jQuery.
 - [asyncly/EventEmitter2](https://github.com/asyncly/EventEmitter2) &mdash; a nodejs event emitter implementation with namespaces, wildcards, TTL, works in the browser
 - [Wolfy87/EventEmitter](https://github.com/Wolfy87/EventEmitter) &mdash; Evented JavaScript for the browser
@@ -129,6 +135,7 @@ Holy f\*\*\*ing s\*\*\*, how did they do that?
 - [jQuery.Deferred docs](http://api.jquery.com/category/deferred-object/) &mdash; like promises but not really.
 
 #### Classes, Inheritance, Object Construction
+- [util.inherits()](http://nodejs.org/api/util.html#util_util_inherits_constructor_superconstructor) &mdash; the native Node helper.
 - [Wolfy87/Heir](https://github.com/Wolfy87/Heir) &mdash; Makes prototypical inheritance easy and robust.
 - [dilvie/stampit](https://github.com/dilvie/stampit) &mdash; Create objects from reusable, composable behaviors.
 - [javascript/augment](https://github.com/javascript/augment) &mdash; The world's smallest and fastest classical JavaScript inheritance pattern.
@@ -145,6 +152,7 @@ Holy f\*\*\*ing s\*\*\*, how did they do that?
 #### User Interfaces
 - [React](http://facebook.github.io/react/) &mdash; a JavaScript library for building user interfaces. It's declarative, efficient, and extremely flexible. What's more, it works with the libraries and frameworks that you already know. [GitHub](https://github.com/facebook/react)
 - [Hamlet](http://hamlet.coffee/) &mdash; the most tempting language for client side JavaScript applications. [GitHub](https://github.com/dr-coffee-labs/hamlet)
+- [Space Pen](https://github.com/atom/space-pen) &mdash; A simple and powerful client-side view framework that works in zero-gravity.
 
 #### Routing
 - [visionmedia/page.js](https://github.com/visionmedia/page.js) &mdash; Micro client-side router inspired by the Express router (~1200 bytes)
