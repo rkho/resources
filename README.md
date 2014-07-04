@@ -87,6 +87,7 @@ Examples in JavaScript
 ### JavaScript Everywhere
 Tools for running JavaScript code and apps outside the browser.
 - [MacGapProject/MacGap1](https://github.com/MacGapProject/MacGap1) &mdash; Desktop WebKit wrapper for HTML/CSS/JS applications.
+- [rogerwang/node-webkit](https://github.com/rogerwang/node-webkit) &mdash; Call all Node.js modules directly from DOM and enable a new way of writing applications with all Web technologies.
 - [Anonyfox/node-webkit-hipster-seed](https://github.com/Anonyfox/node-webkit-hipster-seed) &mdash; Bootstrap a crossplatform Desktop Application using tools you probably never heard of. No this isn't a developer joke. It works.
 - [PhoneGap](http://phonegap.com/) &mdash; access core functions on Android, iPhone and Blackberry using JavaScript. [GitHub](https://github.com/phonegap/phonegap)
 - [Tessel](https://tessel.io/) &mdash; Hardware development for software developers. [GitHub](https://github.com/tessel)
@@ -103,7 +104,7 @@ Stuff related to upcoming ES6 features, exotic DOM APIs, or anything else that's
 - [ES6 Draft Spec](https://people.mozilla.org/~jorendorff/es6-draft.html)
 - [Intro to `Object.observe`](http://www.html5rocks.com/en/tutorials/es7/observe/)
 - [ES6 Generators](http://flippinawesome.org/2014/02/10/replacing-callbacks-with-es6-generators/)
-- [The Polymer Project](http://www.polymer-project.org/)
+- [Introduction to Web Components](http://w3c.github.io/webcomponents/explainer/)
 
 ### DOM & Browser
 - [What Every Frontend Developer Should Know About Webpage Rendering](http://frontendbabel.info/articles/webpage-rendering-101/)
