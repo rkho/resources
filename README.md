@@ -172,7 +172,7 @@ Holy f\*\*\*ing s\*\*\*, how did they do that?
 #### Generating Docs
 - [JSDoc](http://usejsdoc.org/) &mdash; an API documentation generator for JavaScript. [GitHub](https://github.com/jsdoc3/jsdoc)
 - [Docco](http://jashkenas.github.io/docco/) &mdash; Literate Programming can be Quick and Dirty. [GitHub](https://github.com/jashkenas/docco)
-- [comment.js](https://github.com/dciccale/comment.js) Simple API documentation generator.
+- [comment.js](https://github.com/dciccale/comment.js) &mdash; Simple API documentation generator.
 
 #### Functional Programming
 - [Introduction to Functional Javascript](https://medium.com/functional-javascript/introduction-to-functional-javascript-45a9dca6c64a)
