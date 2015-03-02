@@ -130,7 +130,7 @@ Holy f\*\*\*ing s\*\*\*, how did they do that?
 
 #### Promises
 - [JavaScript Promises: There and Back Again](http://www.html5rocks.com/en/tutorials/es6/promises/) &mdash; detailed introduction to Promises
-- [JavaScript Promises... in Wicked Detail](https://github.com/jaredscheib/resources.git) &mdash; another detailed introduction to Promises
+- [JavaScript Promises... in Wicked Detail](http://www.mattgreer.org/articles/promises-in-wicked-detail/) &mdash; another detailed introduction to Promises
 - [petkaantonov/bluebird](https://github.com/petkaantonov/bluebird) &mdash; a full featured promise library with unmatched performance.
 - [cujojs/when](https://github.com/cujojs/when) &mdash; a solid, fast Promises/A+ and when() implementation, plus other async goodies.
 - [Promises/A+ Spec](http://promisesaplus.com/) &mdash; an open standard for sound, interoperable JavaScript promises—by implementers, for implementers.
